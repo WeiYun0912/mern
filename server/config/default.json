@@ -1,0 +1,7 @@
+{
+    "mongoURI" : "mongodb+srv://Wei:WeiWei0225@cluster0.adryn.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret" : "hellowroldjwtsecret",
+    "githubClientId" : "5736bf5d045b9a5ece29",
+    "githubSecret" : "7626a58510654662e17dced40dad080b49fb08e8"
+
+}
